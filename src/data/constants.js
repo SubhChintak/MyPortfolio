@@ -213,7 +213,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4E0BAQFQ6FF2XEUWMg/company-logo_200_200/0/1664375140556/xlayer_logo?e=1722470400&v=beta&t=IHvkgXB96z1dEPztXCdcn1JCU1tIMTXfFJh3ECoobKs",
+    img: "https://i.pinimg.com/736x/f0/7d/28/f07d28b619f90f4044896afe30b94ada.jpg",
     role: "Software Developer Intern",
     company: "xLayer Technologies PVT LTD.",
     date: "June 2021 - Aug 2021",
@@ -237,18 +237,16 @@ export const experiences = [
     role: "MERN Stack Developer",
     company: "learn2gather",
     date: "Nov2023 - Present",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    desc: "Currently I'am working as a freelance developer leading an Ed-Tech startup, crafting a digital platform to revolutionize learning for high school and college students. Your goal: make education engaging and accessible through innovative technology.",
     skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
-      "JavaScript",
+      "Express JS",
+      "MongoDB",
+      "GSAP",
+      "React",
+      "Clerk",
       "TypeScript",
       "Node Js",
-      " Next Js",
+      "React Native",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
@@ -267,7 +265,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQHwDGC4EExLgA/company-logo_200_200/0/1651663382772?e=2147483647&v=beta&t=AGas1GicdISHD7uVvDapout2OpjiO0yLNEekagJuspk",
+    img: "https://i.pinimg.com/736x/59/82/a7/5982a78fc948bc6f92182194acb3137d.jpg",
     school: "Netaji Subhas Vidyaniketan, Agartala",
     date: "Apr 2017",
     // grade: "88.2%",
@@ -276,7 +274,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C4D0BAQHwDGC4EExLgA/company-logo_200_200/0/1651663382772?e=2147483647&v=beta&t=AGas1GicdISHD7uVvDapout2OpjiO0yLNEekagJuspk",
+    img: "https://i.pinimg.com/736x/59/82/a7/5982a78fc948bc6f92182194acb3137d.jpg",
     school: "Netaji Subhas Vidyaniketan, Agartala",
     date: "Apr 2015",
     // grade: "92.3%",
@@ -289,7 +287,7 @@ export const projects = [
   {
     id: 0,
     title: "Darshan",
-    date: "Apr 2023 - May 2023",
+    date: "Jan 2024 - Feb 2024",
     description:
       "Introducing my Video Conferencing App (Darshan), providing seamless user experience and secure authentication. Offering features similar to Zoom, users can join meetings, share screens, and engage in high-quality video calls. Built with cutting-edge technologies, it ensures smooth performance and reliability for virtual collaboration.",
     image:
@@ -316,7 +314,7 @@ export const projects = [
   {
     id: 1,
     title: "Studio.AI",
-    date: "Oct 2022 - Jan 2023",
+    date: "Oct 2023 - Nov 2023",
     description:
       "Engineered a responsive Text to Image AI generator. Empowering users to effortlessly generate and download images based on prompts, with a built-in feed for sharing outputs.",
     image:
@@ -331,7 +329,7 @@ export const projects = [
   {
     id: 2,
     title: "myThreads",
-    date: "Jan 2023 - Mar 2023",
+    date: "Feb 2024 - Mar 2024",
     description:
       "Threads Clone is a web-based social media platform enabling users to share opinions publicly. Users can create profiles, post opinions, react, and comment. Built with modern web technologies, it ensures secure authentication and responsive design for seamless user experience across devices. It provides a dynamic and engaging online community for discussion and interaction.",
     image:"https://i.pinimg.com/736x/d6/2d/a3/d62da3c6a03cc433ef59dada88b762e2.jpg",
@@ -357,7 +355,7 @@ export const projects = [
   {
     id: 3,
     title: "Bartalap",
-    date: "Dec 2021 - Apr 2022",
+    date: "Jun 2023 - Jul 2023",
     description:
       "Introducing our Real Time Chat App, enabling seamless, instant messaging. Users can chat in real time, fostering swift communication. Built for efficiency and convenience, it facilitates quick exchanges anytime, anywhere.",
     image:
@@ -370,7 +368,7 @@ export const projects = [
   {
     id: 4,
     title: "iphone 15",
-    date: "Jan 2021",
+    date: "Jan 2024",
     description:
       "",
     image:
@@ -383,132 +381,132 @@ export const projects = [
   {
     id: 5,
     title: "Rayban",
-    date: "Jan 2021",
+    date: "Aug 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/ab/bc/0e/abbc0e0ca3ad08ec15e183ae14bec4a3.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["HTML 5", "CSS 3", "JavaScript", "GSAP", "Shrey.js"],
     category: "Frontend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://rayban-sc.netlify.app/",
   },
   {
     id: 6,
     title: "Miranda",
-    date: "Jan 2021",
+    date: "Jan 2022",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/a4/89/7b/a4897b99d7bd9ddf59d5fcd4ae921010.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["HTML 5", "CSS 3", "JavaScript", "GSAP"],
     category: "Frontend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://miranda-sc.netlify.app/",
   },
   {
     id: 7,
     title: "AI Website",
-    date: "Jan 2021",
+    date: "dec 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/1b/1a/59/1b1a5949de059fdee5765b9cbddaac1c.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Tailwind CSS", "Vite"],
     category: "Frontend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak/AI-UIUX-Website",
+    webapp: "https://brainwavesc.netlify.app/",
   },
   {
     id: 8,
     title: "Dev Marketplace",
-    date: "Jan 2021",
+    date: "Feb 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/1d/8a/7f/1d8a7f5b093d6a48caad857cbf3e95f4.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Tailwind CSS", "Vite"],
     category: "Frontend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://subhchintak.vercel.app/",
   },
   {
     id: 9,
     title: "Portfolio[Agency]",
-    date: "Jan 2021",
+    date: "Oct 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/86/31/b8/8631b80ae81abfc15a0eac810571f4c7.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["HTML 5", "CSS 3", "JavaScript", "GSAP"],
     category: "Frontend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://corporate-portfolio-sc.netlify.app/",
   },
   {
     id: 10,
     title: "OYO Rooms",
-    date: "Jan 2021",
+    date: "Dec 2022 - Jan 2023",
     description:
       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
     image:
       "https://i.pinimg.com/736x/a4/99/9e/a4999ef5ce859ce272f85fb1b4e0b631.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Next JS", "Tailwind CSS", "JWT", "Razorpay", "Mongodb","NodeJS", "Express"],
     category: "Full Stack",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak/OYO-Clone",
+    webapp: "https://oyo-rooms-replica.netlify.app/",
   },
   {
     id: 11,
-    title: "Etherscan",
-    date: "Jan 2021",
+    title: "Ethereum Explorer",
+    date: "Nov 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/b9/1d/a7/b91da7e11c8d5b3212cc0207bed976fb.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Tailwind CSS", "Moralis", "Express", "Axios", "web3"],
     category: "Backend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://subhchintak.vercel.app/",
   },
   {
     id: 12,
     title: "Ekart",
-    date: "Jan 2021",
+    date: "Jun 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/46/96/64/4696648297fe7dfa905ac1a3c0a714eb.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Tailwind", "Framer-motion", "MongoDB", "Express", "Node js"],
     category: "Backend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://subhchintak.vercel.app/",
   },
   {
     id: 13,
     title: "Canva Clone",
-    date: "Jan 2021",
+    date: "Mar 2024",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/97/db/74/97db74fb08650f318c8dd62ac171d7b1.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "Clerk", "Cloudinary", "MongoDB", "Stripe", "Express", "SVIX", "Zod", "NextJS"],
     category: "Backend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://subhchintak.vercel.app/",
   },
   {
     id: 13,
     title: "myGPT",
-    date: "Jan 2021",
+    date: "Apr 2024",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "",
     image:
       "https://i.pinimg.com/736x/27/a5/33/27a53327075706c0636181aeb343ad44.jpg",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["React", "axios", "Express", "JWT", "MongoDB", "Node js", "OpenAI"],
     category: "Backend",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/SubhChintak",
+    webapp: "https://subhchintak.vercel.app/",
   },
 ];
 
