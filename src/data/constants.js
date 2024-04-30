@@ -237,7 +237,7 @@ export const experiences = [
     role: "MERN Stack Developer",
     company: "learn2gather",
     date: "Nov2023 - Present",
-    desc: "Currently I'am working as a freelance developer leading an Ed-Tech startup, crafting a digital platform to revolutionize learning for high school and college students. Your goal: make education engaging and accessible through innovative technology.",
+    desc: "Currently I'am working as a freelance developer leading an Ed-Tech startup, crafting a digital platform to revolutionize learning for high school and college students. Our goal: make education engaging and accessible through innovative technology.",
     skills: [
       "Express JS",
       "MongoDB",
