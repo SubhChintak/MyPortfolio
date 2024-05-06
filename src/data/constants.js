@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Subhajit Chakraborty",
   roles: [
-    "Full Stack Developer",
-    "React Developer",
+    "Software Developer",
     "UI/UX Designer",
-    "Programmer",
+    "Freelancer",
+    "Tech Enthusiast",
   ],
   description:
     "Currently Based in Agartala, looking to collaborate on Production-Grade full-stack projects, available for Freelance work too. Let's work together to bring your ideas to life!",
   github: "https://github.com/SubhChintak",
   resume:
-    "https://drive.google.com/file/d/1T_Ai4rQZFm7JgdXMYqBZvTNhtFxVzp6S/view?usp=drive_link",
+    "https://drive.google.com/file/d/1x2YT99aNFdlcLhumAQh8CsS1GoulVIO2/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/subhchintak/",
   twitter: "https://twitter.com/SubhChintak98",
   insta: "https://www.instagram.com/_subh.chintak",
