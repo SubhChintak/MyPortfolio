@@ -10,7 +10,7 @@ export const Bio = {
     "Currently Based in Agartala, looking to collaborate on Production-Grade full-stack projects, available for Freelance work too. Let's work together to bring your ideas to life!",
   github: "https://github.com/SubhChintak",
   resume:
-    "https://drive.google.com/file/d/1APuv2dUHunfr8jSaWMylu4p5cUoqqKKn/view?usp=drive_link",
+    "https://drive.google.com/file/d/1dlT8ABJBbFrfZxxDNjVAfduv1yQyiNKP/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/subhchintak/",
   twitter: "https://twitter.com/SubhChintak98",
   insta: "https://www.instagram.com/_subh.chintak",

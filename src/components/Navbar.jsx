@@ -139,8 +139,8 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <ColorText>&lt;</ColorText>Subhajit
-          <div style={{ color: theme.primary }}>/</div>Chakraborty
+          <ColorText>&lt;</ColorText>Subh
+          <div style={{ color: theme.primary }}>/</div>Chintak
           <ColorText>&gt;</ColorText>
         </NavLogo>
 
